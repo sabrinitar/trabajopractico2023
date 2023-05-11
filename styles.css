@@ -1,0 +1,60 @@
+#logo1 {border-radius: 100px;}
+
+a {
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+    margin: 30px;
+}
+
+.nav-menu1{
+    color: rgb(77, 77, 77);
+    display: flex;
+    position:relative;
+    justify-content: space-between;
+    height: 15vh;
+    top: 0px;
+    
+}
+
+#conferencia {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Poppins', sans-serif; color: rgb(77, 77, 77);
+    font-size: small;  
+    align-items: center;
+}
+
+.carousel-caption {
+    display: flex;
+    position:relative;
+    font-family: 'Poppins', sans-serif; color: rgb(77, 77, 77);
+   
+  
+}
+
+.card {
+    display: flex;
+    position: relative;
+}
+
+.col-md-8{
+background-color: rgb(233, 229, 229);
+text-align: center;
+}
+
+#texto {
+    display:relative;
+    text-align:center;
+   
+}
+#footer {
+    background-color: rgb(233, 229, 229);
+    display: flex; 
+    justify-content: space-between;
+    font-family: 'Poppins', sans-serif; color: rgb(77, 77, 77);
+    font-size: small;  
+    align-items: center;
+}   
