@@ -58,3 +58,7 @@ text-align: center;
     font-size: small;  
     align-items: center;
 }   
+
+.card-body {
+    text-align: center;
+}
